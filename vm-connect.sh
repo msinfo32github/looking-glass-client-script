@@ -8,7 +8,7 @@ HEIGHT=15
 WIDTH=40
 CHOICE_HEIGHT=4
 BACKTITLE="vm-connect"
-TITLE="Title here"
+TITLE="vm-connect"
 MENU="Choose one of the following options:"
 
 # List of options using dialog box.
