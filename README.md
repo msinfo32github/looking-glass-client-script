@@ -17,7 +17,7 @@ Clone the git contents using `git clone`.
 ```bash
 git clone https://github.com/msinfo32github/looking-glass-client-script/
 ```
-Change directory into to newly downloaded folder.
+Change directory into the newly downloaded folder.
 
 ```bash
 cd looking-glass-client-script
