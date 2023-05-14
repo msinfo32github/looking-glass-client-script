@@ -58,7 +58,7 @@ The original script is `vm-connect-old-cli-only.sh`. It is entirely CLI based an
 
 ### Install to `/usr/bin`
 
-You can install this to `/usr/bin` very easyily. This allows you to execute this from anywhere within a terminal, as any normal CLI application.
+You can install this to `/usr/bin` very easily. This allows you to execute this from anywhere within a terminal, as any normal CLI application.
 
 ```bash
 sudo cp vm-connect.sh /usr/bin/vm-connect
